@@ -42,3 +42,55 @@ int main(){
     }
     return 0;
 }
+
+//方法二:
+#include<iostream>
+#include<vector>
+
+using namespace std;
+
+class page{
+public:
+	int index;
+	int count;
+
+};
+
+int main(){
+	vector<page> pages;
+	int N;
+	cin >> N;
+	for(	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
